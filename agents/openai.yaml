@@ -1,0 +1,4 @@
+interface:
+  display_name: "VESTA Figure Maker"
+  short_description: "Create and inspect reproducible scientific figures in VESTA"
+  default_prompt: "Use $vesta-figure-maker to turn my crystal structure file into a publication-ready figure."
